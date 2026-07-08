@@ -82,9 +82,20 @@ const eiman: Engineer = {
 
 ## GitHub
 
-[![Eiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=EimanW&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d0d0d&title_color=c9b8ff&text_color=999999&icon_color=9988cc)](https://github.com/EimanW)
-[![GitHub Streak](https://streak-stats.demolab.com?user=EimanW&theme=dark&hide_border=true&background=0d0d0d&ring=9988cc&fire=c9b8ff&currStreakLabel=c9b8ff&sideLabels=999999&dates=666666&stroke=333333)](https://github.com/EimanW)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EimanW&theme=dark&hide_border=true&layout=compact&langs_count=8&bg_color=0d0d0d&title_color=c9b8ff&text_color=999999)](https://github.com/EimanW)
+<p align="center">
+  <a href="https://github.com/EimanW">
+    <img src="https://github-readme-stats.vercel.app/api?username=EimanW&theme=dark&hide_border=true&show_icons=true&rank_icon=github&bg_color=0d0d0d&title_color=c9b8ff&text_color=999999&icon_color=9988cc" alt="Eiman's GitHub stats" height="165" />
+  </a>
+  <a href="https://github.com/EimanW">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EimanW&theme=dark&hide_border=true&layout=compact&langs_count=8&bg_color=0d0d0d&title_color=c9b8ff&text_color=999999" alt="Top Languages" height="165" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/EimanW">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=EimanW&bg_color=0d0d0d&color=999999&line=9988cc&point=c9b8ff&area=true&area_color=1a1a2e&hide_border=true" alt="Contribution activity graph" />
+  </a>
+</p>
 
 ---
 
