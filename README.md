@@ -59,7 +59,7 @@ const eiman: Engineer = {
 
 ```
 ✦  ResearchLLM    AI research workspace · Gemini 2.5 Flash · researchllm-gold.vercel.app
-✦  SimuPatient    AI clinical simulator for medical students                   [building]
+✦  SimuPatient    AI clinical simulator for medical students                   [repo pinned]
 ✦  GhostWriter    Converse with a loved one's preserved voice                  [building]
 ✦  BiasMirror     Line-level bias detection + neutral rewriting                [building]
 ✦  TwinMind       Digital twin simulator with NL what-if queries               [planned]
